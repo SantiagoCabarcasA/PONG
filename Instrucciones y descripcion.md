@@ -1,5 +1,3 @@
-**`Santiago Cabarcas Almanza**`
-**`T00076977**`
 
 ### `INSTRUCCIONES DE USO`
 **`Jugador 1`**: Usa las teclas **`W`** (arriba) y **`S`** (abajo) para mover la paleta
